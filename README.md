@@ -32,12 +32,12 @@ worldwide-gross/
 ## 🔍 How to Use
 ### For Viewers:
 1. **Interactive Version**: Click the [Tableau Public link](https://public.tableau.com/views/FilmInsights_17408244252750/WorldwideGross?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) above.
-2. **Static View**: See `/images/dashboard_preview.png`.
+2. **Static View**: See `https://github.com/shanujans/Tableau-projects/blob/main/Screenshot%202025-04-17%20165101.png`.
 
 ### For Developers:
 1. **Edit in Tableau**:
    ```bash
-   git clone https://github.com/yourusername/worldwide-gross.git
+   git clone https://github.com/shanujans/worldwide-gross.git
    Open film_gross.twbx in Tableau Public/Desktop
    ```
 2. **Rebuild from Data**:
